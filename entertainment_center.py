@@ -20,14 +20,14 @@ shawshank_redemption = media.Movie(
     "The Shawshank Redemption",
     "1994",
     "A banker is sentenced to life in prison despite his claims of innocence",
-    "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg", # NOQA
+    "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",  # NOQA
     "https://www.youtube.com/watch?v=6hB3S9bIaco")
 
 science_of_sleep = media.Movie(
     "The Science of Sleep",
     "2006",
     "A man's vivid dreams and imagination interfere" +
-        "with his ability to interact with reality",
+    "with his ability to interact with reality",
     "https://upload.wikimedia.org/wikipedia/en/1/1e/Scienceofsleeppromo.jpg",
     "https://www.youtube.com/watch?v=L0TyuLIfKgU")
 

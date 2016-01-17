@@ -1,7 +1,6 @@
-import webbrowser
-
-
 class Movie():
+    """This class contains properties for the display
+    of a movie"""
 
     def __init__(self,
                  movie_title,
@@ -9,6 +8,7 @@ class Movie():
                  movie_storyline,
                  poster_image,
                  trailer_youtube):
+        """ Initializes the movie object"""
         self.title = movie_title
         self.release_year = release_year
         self.storyline = movie_storyline
